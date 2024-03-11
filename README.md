@@ -1,0 +1,1 @@
+La gestione dei processi piu efficienti sono i multi-tasking e il time-sharing perchè, a differenza del mono-tasking, il processore quando è in fase di attesa si concentra a eseguire un altro processo cosi da ottimizzare i tempi.
